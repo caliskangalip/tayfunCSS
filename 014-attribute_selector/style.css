@@ -1,0 +1,12 @@
+abbr[title]{
+    color: blue;
+}
+
+/* nitelik ismi title olan abbr nesneleri seç */
+
+img[height]{
+    background: yellow;
+}
+img[width]{
+    background: green;
+}

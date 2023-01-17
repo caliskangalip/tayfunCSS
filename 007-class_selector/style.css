@@ -1,0 +1,9 @@
+.color-blue{
+    color: blue;
+}
+.text-bold{
+    font-weight:bolder;
+}
+.color-blue.text-bold{
+    color: black;
+}

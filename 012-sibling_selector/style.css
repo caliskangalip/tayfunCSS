@@ -1,0 +1,5 @@
+h3 + p{
+    color: yellow;
+}
+
+/* h3 etiketinden hemen sonra gelen p etiketini seçer */
